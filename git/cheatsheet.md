@@ -1,6 +1,6 @@
 # Cheat Sheet for git 
 
-### Show all branches
+## Branch related
 
 ```bash
 # Shows all remote and local branches
@@ -22,4 +22,18 @@ $ git branch -a
 $ git branch -v -a
 # or
 $ git branch -v -r
+```
+
+### Diff
+
+```bash
+# See the diff betweetn branches using the double dot notation
+$ git diff <branch>..<feature_branch>
+```
+
+## Commit related
+
+```bash
+# Display the history of commits for the actual branch
+$ git log
 ```
