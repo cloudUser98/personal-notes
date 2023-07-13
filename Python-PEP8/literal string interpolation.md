@@ -11,6 +11,7 @@ se le dara formato. Esta tipo de formato es consdierado mas rapido que sus antec
 
 ejemplo:
 ```python
-    value = "ejemplo"
-    print( f"Este es un {value}"
+value = "ejemplo"
+
+print(f"Este es un {value}")
 ```
