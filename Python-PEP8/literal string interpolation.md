@@ -14,4 +14,5 @@ ejemplo:
 value = "ejemplo"
 
 print(f"Este es un {value}")
+#  Output: "Este es un ejemplo"
 ```
