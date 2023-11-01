@@ -9,3 +9,8 @@
 | SOLID Principles explained in Python with examples. | https://gist.github.com/dmmeteo/f630fa04c7a79d3c132b9e9e5d037bfd |
 | Using Netrw, vim's builtin file explorer | https://vonheikemen.github.io/devlog/tools/using-netrw-vim-builtin-file-explorer/ |
 | Complex Selectors | https://learn.shayhowe.com/advanced-html-css/complex-selectors/ |
+| The IRC Prelude | https://www.irchelp.org/faq/new2irc.html |
+| What is a Bot? | https://aws.amazon.com/what-is/bot/ |
+| Kevin Sookocheff - How Do Websockets Work? | https://sookocheff.com/post/networking/how-do-websockets-work/ |
+| WebSockets for fun and profit | https://stackoverflow.blog/2019/12/18/websockets-for-fun-and-profit/ |
+| Implementing the IRC spec in Node.js | https://hackernoon.com/implementing-the-irc-spec-in-node-js-c630b8cd5771 |
