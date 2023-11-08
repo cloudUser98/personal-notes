@@ -1,10 +1,10 @@
 # Transport protocols
 
 ## Types of protocols
-There are two types of this protocols **connectionless** and **connection-oriented**
+There are two, **connectionless** and **connection-oriented**
 
 ### Connectionless protocols
-Used in [packet switching]() networks. In this connection all the [datagrams]() 
+Used in [packet switching]() networks. In this connection all the [datagrams](https://github.com/cloudUser98/personal-notes/blob/develop/glossary.md#datagram) 
 are treated as independent from one another. Each datagram must contain all the 
 information required for its delivery.
 
